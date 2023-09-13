@@ -2,11 +2,8 @@ spool file demonstrating execution of SQL statements for logical schema:
 spool trial3.lst ❌
 spool trial5.lst
 spool tables.lst
-
 spool p1t1.lst❌
-
 spool p1t2.lst
-
 spool p1t3.lst
 
 Create Type (object):
@@ -230,10 +227,9 @@ SQL> create table customerProfileTable of customerProfileT (userID primary key);
 
 
 
-spool file demonstrating execution of SQL statements to insert the data:
 
+spool file demonstrating execution of SQL statements to insert data:
 spool p2t1.lst
-
 spool p2t2.lst
 spool p2t3.lst
 
