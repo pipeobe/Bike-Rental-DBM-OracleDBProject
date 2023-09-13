@@ -1,4 +1,4 @@
-
+Demonstrating execution of SQL statements for Logical Schema:
 
 Create Type (object):
 
@@ -222,10 +222,9 @@ SQL> create table customerProfileTable of customerProfileT (userID primary key);
 
 
 
-spool file demonstrating execution of SQL statements to insert data:
-spool p2t1.lst
-spool p2t2.lst
-spool p2t3.lst
+
+Demonstrating execution of SQL statements to insert data:
+
 
 CREATE TYPE addressT AS OBJECT (streetNumber varchar2(5), streetName varchar2(12), city varchar2(12), country varchar2 (10), postalCode varchar2 (6), member function fullAddress return varchar2);
 
