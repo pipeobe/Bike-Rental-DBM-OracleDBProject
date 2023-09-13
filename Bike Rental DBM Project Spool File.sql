@@ -230,32 +230,6 @@ SQL> create table customerProfileTable of customerProfileT (userID primary key);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 spool file demonstrating execution of SQL statements to insert the data:
 
 spool p2t1.lst
