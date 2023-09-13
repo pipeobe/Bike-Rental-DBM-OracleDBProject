@@ -1,10 +1,4 @@
-spool file demonstrating execution of SQL statements for logical schema:
-spool trial3.lst ❌
-spool trial5.lst
-spool tables.lst
-spool p1t1.lst❌
-spool p1t2.lst
-spool p1t3.lst
+
 
 Create Type (object):
 
